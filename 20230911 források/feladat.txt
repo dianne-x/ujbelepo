@@ -1,0 +1,17 @@
+Számolnod kell a belépőket a konferenciára, akik elhaladnak előtted. 
+Készíts számlálót, amelyen, ha megnyomod az új belépő gombot, akkor a számláló, 
+mindig hozzá ad egyet. 
+Reseteld ki az oladlt, alkalmazd azt a lehetőséget, amikor a böngésző automatikusan számítja ki az elemeket szélességét, biztosítva, hogy akkor is olyan széles legyen, mint amit megadsz, ha belső margó kerül megadásra. 
+A kártya hátteréhez telepítsd a vsc-be a picsum addont. A stíluslapon csak a megfelelő szelektorhoz annyit kell beírnod: picsum, javítsd ki benne a kép méretét 300x400 px -re. 
+A kis konténered méretei is ugyanezek legyen, 20px paddinggel, amelyet a weboldal közepére helyezel el. 
+A kártyát kerekítsd le 20px-el.
+a látogatók h1-es címsorba kerüljön középre a kártyán, 50px betűmérettel, fehérsz színnel, a számláló szintén, de az h2-es címsorba kerüljön. 
+A szöveges tartalmaid fölött 20px távolság legyen.
+Adj hozzá egy gombot, amelyere ha kattintasz, a számlálóhoz mindig hozzá ad egyet. (button-t használj)
+Addj hozzá cursor pointert. 
+Háttérszíne darkred legyen, 10px belső margóval, a bele írt szöveg félkövér legyen, és fehér. A szélei 5 px-el legynek lekerekítve. 
+Külön készíts html, css és script fájlt. 
+Word dokumentumban  készítsd el a programod dokumentációját. 
+Másfeles sortávolsággal, 12pt Times New roman betűtípussal, sorkizártan, alkalmazz címsorokat, a végén szúrj be az elejére tartalom jegyzéket és borítót, a neveddel dátummal és az alkalmazás nevével. A végére sorold fel a forrásokat, ha valaminek valahol utána néztél az interneten.
+Csomagold össze a fájlt és küld el: itweb.guide@gmail.com-ra
+
